@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ktk1nsq1e2emdr09?svg=true)](https://ci.appveyor.com/project/DiKarimo/patternshw1)
